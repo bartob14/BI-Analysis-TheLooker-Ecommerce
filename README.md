@@ -10,7 +10,7 @@ The main objectives of this project were to analyze product performance, custome
 **Demographics and Product Preferences**
 
 
-*Insight:* TheLook eCommerce serves a diverse age range, with customers aged between 12 to 70 years old. The average customer age is 41 years, indicating that most customers are working professionals with families. 
+*Insight:* TheLook eCommerce serves a diverse age range, with customers aged between 12 to 70 years old. The average customer age is 41 years, indicating that most customers are working professionals with families.<br> 
 *Action:* Aligning product offerings and marketing strategies with customer demographics could lead to higher conversion rates and personalized shopping experiences.
 
 
@@ -19,7 +19,7 @@ The main objectives of this project were to analyze product performance, custome
 
 
 
-*Insight:* The top contributing cities are Shanghai, Beijing, and Seoul, with Brazil, the United States, and China leading overall sales by country. 
+*Insight:* The top contributing cities are Shanghai, Beijing, and Seoul, with Brazil, the United States, and China leading overall sales by country.<br> 
 *Action:* Focus marketing efforts and optimize localized inventory in high-performing regions to improve profitability and operational efficiency.
 
 
@@ -28,7 +28,7 @@ The main objectives of this project were to analyze product performance, custome
 
 
 
-*Insight:* Sweaters and jeans drive over 35% of total revenue, while lower-performing categories like accessories contribute to a 10% profit margin decline. 
+*Insight:* Sweaters and jeans drive over 35% of total revenue, while lower-performing categories like accessories contribute to a 10% profit margin decline.<br> 
 *Action:* Adjust pricing strategies and inventory for underperforming categories to maximize profit margins while expanding successful product categories.
 
 
@@ -36,7 +36,7 @@ The main objectives of this project were to analyze product performance, custome
 
 
 
-*Insight:* Search traffic generated the highest revenue and maintained a 30% profit margin, making it the most valuable traffic source. 
+*Insight:* Search traffic generated the highest revenue and maintained a 30% profit margin, making it the most valuable traffic source.<br> 
 *Action:* Invest more in search marketing, while optimizing organic and paid channels to improve customer acquisition and revenue.
 
 
@@ -45,7 +45,7 @@ The main objectives of this project were to analyze product performance, custome
 
 
 
-*Insight:* Monthly revenue loss due to churn amounted to $20,000, with notable sales spikes in Q4 due to the holiday season, showing a 34% revenue increase compared to Q3. 
+*Insight:* Monthly revenue loss due to churn amounted to $20,000, with notable sales spikes in Q4 due to the holiday season, showing a 34% revenue increase compared to Q3.<br> 
 *Action:* Implement retention strategies to reduce churn and leverage sales seasonality to maximize revenue.
 
 
@@ -53,24 +53,24 @@ The main objectives of this project were to analyze product performance, custome
 
 
 
-*Insight:* Revenue projections show significant growth under the best-case scenario, while the worst-case scenario forecasts a 30% revenue drop in 2024 due to economic downturns, with recovery by 2028. 
+*Insight:* Revenue projections show significant growth under the best-case scenario, while the worst-case scenario forecasts a 30% revenue drop in 2024 due to economic downturns, with recovery by 2028.<br> 
 *Action:* Use scenario planning to optimize inventory and vendor relationships while preparing for potential market disruptions.
 
 ## Key Insights and Recommendations
 
-- *Product Performance:* Categories like sweaters and jeans are top-performers, while accessories need pricing adjustments to improve profitability.
-- *Customer Segmentation:* Targeted marketing efforts based on age, gender, and location can enhance product sales and customer satisfaction.
-- *Traffic Source:* Search traffic is the most profitable channel, and optimizing SEO and paid search strategies will further improve customer acquisition.
-- *Sales Forecasting:* Scenario planning should be incorporated into inventory and marketing strategies to navigate potential economic fluctuations.
+- *Product Performance:* Categories like sweaters and jeans are top-performers, while accessories need pricing adjustments to improve profitability.<br>
+- *Customer Segmentation:* Targeted marketing efforts based on age, gender, and location can enhance product sales and customer satisfaction.<br>
+- *Traffic Source:* Search traffic is the most profitable channel, and optimizing SEO and paid search strategies will further improve customer acquisition.<br>
+- *Sales Forecasting:* Scenario planning should be incorporated into inventory and marketing strategies to navigate potential economic fluctuations.<br>
   
 `Note:` The dataset used for this analysis is AI-generated and does not represent real-world customer data. The insights should be validated with actual data before implementation.
 
 ## Project Overview
 **Repository Structure**
 
-- `data/:` Contains the datasets used for analysis.
-- `outdir/;` Contains manipulated data and new dataframes
-- `notebooks/:` Jupyter notebook with the full analysis and visualizations.
+- `data/:` Contains the datasets used for analysis.<br>
+- `outdir/;` Contains manipulated data and new dataframes<br>
+- `notebooks/:` Jupyter notebook with the full analysis and visualizations.<br>
 - `images/:` Folder containing images of the visualizations used in the project.
 
   
